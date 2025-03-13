@@ -2,7 +2,7 @@
 ## Tech Stack
 ```
 Backend: Flask (Python)
-Frontend: Django Templates with HTML, CSS, JavaScript
+Frontend: Flask Templates with HTML, CSS, JavaScript
 Database: PostgreSQL
 Payment Integration: EasyPaisa & JazzCash (planned for future)
 Domain: kingmango.online
